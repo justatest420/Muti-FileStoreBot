@@ -102,8 +102,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/abhinai2244/multi-bot-filestore.git
-cd multi-bot-filestore
+git clone https://github.com/abhinai2244/Muti-FileStoreBot.git
+cd Muti-FileStoreBot
 ```
 
 ### 2. Install dependencies
